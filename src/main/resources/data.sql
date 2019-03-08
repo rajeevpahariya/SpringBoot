@@ -18,7 +18,7 @@ insert into Ingredient (id, name, type)
                 values ('SLSA', 'Salsa', 'SAUCE');
 insert into Ingredient (id, name, type)
                 values ('SRCR', 'Sour Cream', 'SAUCE');
-insert into PIZZA_INGREDIENT (id, name, type)
+/*insert into PIZZA_INGREDIENT (id, name, type)
                 values ('FLTO', 'Flour Tortilla', 'WRAP');
 insert into PIZZA_INGREDIENT (id, name, type)
                 values ('COTO', 'Corn Tortilla', 'WRAP');
@@ -37,4 +37,4 @@ insert into PIZZA_INGREDIENT (id, name, type)
 insert into PIZZA_INGREDIENT (id, name, type)
                 values ('SLSA', 'Salsa', 'SAUCE');
 insert into PIZZA_INGREDIENT (id, name, type)
-                values ('SRCR', 'Sour Cream', 'SAUCE');
+                values ('SRCR', 'Sour Cream', 'SAUCE');*/
